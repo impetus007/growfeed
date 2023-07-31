@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #1d267d;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  /* padding: 1rem; */
+  padding: 0 2rem;
+}
+
+.navbar_left {
+  display: flex;
+  flex: 1;
+}
+.navbar_right {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  flex: 1;
+}

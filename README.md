@@ -2,6 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+
+
+Deployed Link :-
+
+```
+https://growfeed-tbig-poh73tie3-impetus007.vercel.app/
+```
+
 First, run the development server:
 
 ```bash

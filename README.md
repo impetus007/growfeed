@@ -12,6 +12,17 @@ yarn dev
 pnpm dev
 ```
 
+
+After this just create a .env.local file on root folder
+
+```
+NEXT_PUBLIC_ACCESS_KEY=
+```
+Add your public key
+
+
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
